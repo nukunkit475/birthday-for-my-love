@@ -94,9 +94,10 @@
       heart.style.animationDuration = 3 + Math.random() * 3 + "s";
       document.body.appendChild(heart);
     }
-  </script>
-  <img src="sticker_love.png" width="150" style="position: fixed; bottom: 20px; right: 20px; border-radius: 50%;" alt="sticker">
+    <img src="sticker_love.png" width="150" style="position: fixed; bottom: 20px; right: 20px; border-radius: 50%;" alt="sticker">
 
+  </script>
+  
 
 </body>
 </html>
